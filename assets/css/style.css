@@ -1,0 +1,44 @@
+body {
+    background:#ffffff;
+    border: #dddddd;
+    width: 960px;
+    font-size: 18px;
+    margin: auto;
+  }
+  header {
+    background: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+
+  }
+  bio-image {
+    float: left;
+    width: 30px;
+    height: 30px;
+  }
+  div {
+    background: #ebebeb;
+    text-align: center; 
+    padding: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  h1 {
+    background: #ebebeb;
+    position: relative;
+    float: left;
+    text-align: center;
+    width: 500px;
+    height: 200px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+  }
+  p {
+
+  }
+  footer {
+    border-top: 8px solid #4aaaa5;
+  }
