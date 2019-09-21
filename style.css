@@ -58,7 +58,8 @@ body {
     }
     p {
       display: inline;
-      font: #777777;
+      color: #777777;
+      font-family: Arial, Helvetica, sans-serif;
     }
     .bio-image {
       float: left;
